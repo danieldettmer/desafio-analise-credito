@@ -49,10 +49,9 @@ Se você for aprovado nesta etapa, será convidado para uma entrevista final com
     ```
 
 ### Instruções
-      1. Faça o fork do desafio e crie uma branch 'desafio_analise_credito';
-      2. Desenvolva. Você terá 3 (três) dias a partir da data do envio do desafio; 
-      3. Crie um arquivo de texto com a nomenclatura README.MD com a explicação de como devemos executar o 
+      1. Desenvolva. Você terá 3 (três) dias a partir da data do envio do desafio; 
+      2. Crie um arquivo de texto com a nomenclatura README.MD com a explicação de como devemos executar o 
         projeto e com uma descrição do que foi feito; 
-      4. Após finalizado, envie um e-mail com o projeto zipado para dangellys.feitosa@conductor.com.br e daniel.dorta@conductor.com.br;
+      3. Após finalizado, envie um e-mail com o projeto zipado para daniel.dorta@conductor.com.br e fidelis.andrade@conductor.com.br;
       
 Em caso de dúvidas relacionadas a negócio, pode entrar em contato através dos e-mails acima. Desejamos boa sorte e que a força esteja com você!
